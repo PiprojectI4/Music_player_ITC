@@ -1,0 +1,9 @@
+.form-center{
+    margin-left: 20%;
+    padding: 5px;
+    width: 60%;
+}
+.form-control{
+	margin-bottom: 10px;
+	resize: none;
+}

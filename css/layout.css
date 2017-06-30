@@ -1,0 +1,65 @@
+.col-1 {
+	width:220px;
+	margin-right:22px;
+	margin-left:5px;
+
+}
+.col-2 {
+	width:790px;
+	margin-right:44px;
+}
+}
+.col-21 {
+	width:540px;
+	margin-right:44px;
+}
+.col-3 {
+	width:160px;
+	margin-right: 84px;
+}
+#page1.col-1 {
+	font-size:14px;
+	width:506px;
+	margin-right:84px;
+}
+#page2 .col-1 {
+	margin-right:84px;
+}
+#page2 .col-2 {
+	width:506px;
+	margin-right:84px;
+}
+#page3 .col-1 {
+	margin-right:84px;
+}
+#page3 .col-2 {
+	width:506px;
+	margin-right:84px;
+}
+#page4 .col-1 {
+	margin-right:84px;
+}
+#page4 .col-2 {
+	width:506px;
+	margin-right:84px;
+}
+#page5 .col-1 {
+	margin-right:44px;
+}
+#page5 .col-2 {
+	width:586px;
+	margin-right:44px;
+}
+#page6 .col-1 {
+	margin-right:84px;
+}
+#page6 .col-2 {
+	width:506px;
+	margin-right:84px;
+}
+.col-21 {
+	width:790px;
+	margin-right:44px;
+	text-align: center;
+	font-size: 20px;
+}
